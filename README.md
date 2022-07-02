@@ -1,16 +1,23 @@
-# sleeper
+# Sleeper
 
-A new Flutter project.
+<img src="https://i.pinimg.com/originals/9c/b1/59/9cb159ed669f59d43cf2abc56c33f6a4.gif" height="200">
 
-## Getting Started
+O Sleeper é um aplicativo de monitoramento do sono
 
-This project is a starting point for a Flutter application.
+### ⚠️ Atenção!
+ 
+O aplicativo está em seu início de desenvolvimento, portanto, algumas funcionalidades descritas aqui podem ainda não estar em completo funcionamento.
+ 
+ 
+### 📱 Capturas de tela do aplicativo (em breve):
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://decode.agency/wp-content/uploads/2021/01/bw-wireframe.svg" height="300">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 💡 Inspirações de UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Durante o desenvolvimento do aplicativo, diversas das UI disponíveis na internet tiveram um impacto mesmo que mínimo, no resultado final. Portanto, abaixo (por conta da dificuldade em reunir literalmente todos) ficarão as que tiveram uma implicação maior no resultado final.
+
+|Tela|Link do autor|
+|---|---|
+|Home Screen|https://dribbble.com/shots/16581343-Leepy-mobile-app|
+
